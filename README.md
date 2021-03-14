@@ -1,6 +1,7 @@
 # Rules to use this algorithm 
 1] Label class column should be at the last of your dataset
 2] There should be no missing values.
+3] All the features are categorical.
 
 The Titanic Dataset used in the above code has been modified. Certain columns have been removed while certain values have been changed , all of this is done within the code.
 The main algorithm contains only 2 fucntions which it uses to calculate the probabilities.
